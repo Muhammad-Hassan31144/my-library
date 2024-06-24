@@ -1,7 +1,6 @@
 const Input = ({ placeholder, onChange }) => {
   return (
-    //   className="border border-gray-300 rounded-md px-3 py-2 input input-bordered input-primary w-full max-w-xs"
-    // />
+
     <div className="relative flex items-center justify-center mt-4">
       <div className="relative">
         <input
